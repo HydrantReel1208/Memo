@@ -18,4 +18,7 @@ import  NotePage from './components/NotePage.vue'
   width: 100vw;
   height: 100vh;
 }
+html,body{
+  margin: 0;
+}
 </style>
